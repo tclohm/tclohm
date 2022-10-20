@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [ ] Making Lists
-- [x] Eating Pizza
-- [x] Playing Outer Worlds but not completing
-- [x] Listening to Podcasts -- Acquired and 99% Invisible
-- [ ] Watching Web3
-- [x] Reading "Calling Bullshit: The Art of Skepticism in a Data-Driven World"
 
-<img src="https://user-images.githubusercontent.com/2380963/196989432-0c1113e4-33ec-4128-847e-932d0f377407.gif" width="200" height="100">
+- [ ] ✏️: Lists
+- [x] 🍽: Pizza                                                            
+- [x] 🕹: Outer Worlds
+- [x] 👂: Podcasts -- Acquired and 99% Invisible
+- [ ] 👀: Web3...a lot of grifting
+- [x] 📖: "Calling Bullshit: The Art of Skepticism in a Data-Driven World"
+
+
+<img src="https://user-images.githubusercontent.com/2380963/196989432-0c1113e4-33ec-4128-847e-932d0f377407.gif" style="float: right;" width="100" height="100">

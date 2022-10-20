@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - [x] 📖: "Calling Bullshit: The Art of Skepticism in a Data-Driven World"
 
 
-<img src="https://user-images.githubusercontent.com/2380963/196989432-0c1113e4-33ec-4128-847e-932d0f377407.gif" style="float: right;" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/2380963/196989432-0c1113e4-33ec-4128-847e-932d0f377407.gif" align="right" width="100" height="100">

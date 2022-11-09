@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [ ] 🍽: Pizza                                                            
 - [ ] 🕹: Outer Worlds
 - [x] 👂: Podcasts -- Acquired, and 99% Invisible
-- [ ] 👀: Web3...a lot of grifting
+- [ ] 👀: ...
 - [x] 📖: [Calling Bullshit: The Art of Skepticism in a Data-Driven World, I am a Strange Loop, Designing Distributed Systems]
 - [x] 🔋: Low
 

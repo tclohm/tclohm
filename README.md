@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [x] 🍽: Smoothie                                                            
 - [ ] 🕹: Outer Worlds
 - [x] 👂: Podcasts -- Acquired, and 99% Invisible
-- [ ] 👀: FTX...wow
+- [ ] 👀: Redwoodjs
 - [x] 📖: [Calling Bullshit: The Art of Skepticism in a Data-Driven World, I am a Strange Loop, Designing Distributed Systems]
 - [x] 🔋: Mid - Low
 - [ ] 📉: Benchmarking

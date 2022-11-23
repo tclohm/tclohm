@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - [x] 📖: [Calling Bullshit: The Art of Skepticism in a Data-Driven World, I am a Strange Loop, Designing Distributed Systems]
 - [x] 🔋: Mid - Low
 - [ ] 📉: Benchmarking
-- [x] 😭: Github lockin
 - [x] ✍️: Sublime Text
 
 

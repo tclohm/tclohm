@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Thanksgiving leftovers                                                            
+- [x] 🍽: Chips and Dip                                                      
 - [ ] ⌨️: Golang
 - [x] 👂: Podcasts -- Acquired, and 99% Invisible
 - [ ] 👀: Redwoodjs

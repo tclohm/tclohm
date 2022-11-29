@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Chicken and Sweet Potatos                                             
+- [x] 🍽: Tomato Soup                                             
 - [ ] ⌨️: Golang
-- [x] 👂: Podcasts -- Acquired, and 99% Invisible
+- [x] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: Redwoodjs
 - [x] 📖: [Calling Bullshit: The Art of Skepticism in a Data-Driven World, I am a Strange Loop, Designing Distributed Systems]
 - [x] 🔋: Mid - Low

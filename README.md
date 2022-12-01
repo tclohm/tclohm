@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - [x] 🍽: Cauliflower Picatta                                             
-- [ ] ⌨️: Golang
+- [ ] ⌨️: Typing in Golang 🐭
 - [x] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: Redwoodjs
 - [x] 📖: [Calling Bullshit: The Art of Skepticism in a Data-Driven World, I am a Strange Loop, Designing Distributed Systems]

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Cauliflower Picatta                                             
+- [x] 🍽: Pizza                                             
 - [ ] ⌨️: Typing in Golang 🐭
 - [x] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: Redwoodjs

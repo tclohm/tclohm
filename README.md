@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: [Mushroom Soup](https://www.bonappetit.com/recipe/creamy-ish-of-mushroom-soup, 🍄+🥣=👅)                          
+- [ ] 🍽: [Mushroom Soup](https://www.bonappetit.com/recipe/creamy-ish-of-mushroom-soup, "🍄+🥣=👅")                          
 - [x] ⌨️: Typing in Golang 🐭
 - [x] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: Redwoodjs

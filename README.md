@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Burritos
+- [x] 🍽: Tacos
 - [x] ⌨️: Typing in Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [ ] 👀: Reddit
+- [ ] 👀: ...
 - [x] 📖: [I am a Strange Loop, Designing Distributed Systems]
 - [x] 🔋: Mid - Low
 - [x] 📉: Benchmarking

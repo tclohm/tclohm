@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Food poisoning 🤮🤮🤮
+- [x] 🍽: Food 🤮🤮🤮
 - [x] ⌨️: Typing in Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [ ] 👀: Mexico
+- [ ] 👀: LA
 - [x] 📖: [I am a Strange Loop, Designing Distributed Systems]
 - [x] 🔋: Mid - Low
 - [x] 📉: Benchmarking

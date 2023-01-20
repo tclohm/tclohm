@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Monty's Good burger
+- [ ] 🍽: Heavy Handed
 - [x] ⌨️: Typing in Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: Steaks, Garlic Mashed potatoes, Brocolli
+- [ ] 🍽: Burgers
 - [x] ⌨️: Typing in Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA

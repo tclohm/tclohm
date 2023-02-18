@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: Chicken, Potato, and Rice
+- [ ] 🍽: lil gem salad
+
 - [x] ⌨️: Typing in Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA

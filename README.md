@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: lil gem salad
-
+- [x] 🍽: lil gem salad
 - [x] ⌨️: Typing in Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA

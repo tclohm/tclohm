@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: pizza
-- [x] ⌨️: Typing in Golang 🐭
+- [x] 🍽: Mushroom Pasta
+- [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA
 - [x] 📖: [I am a Strange Loop, Designing Distributed Systems]

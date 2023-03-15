@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: 3.14 Pizza Pie
+- [ ] 🍽: Jones Hollywood
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA

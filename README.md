@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: Caramelized Shallot Pasta
+- [x] 🍽: Caramelized Shallot Pasta
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA

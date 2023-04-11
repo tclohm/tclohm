@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Easter Dinner
+- [x] 🍽: Korean Ketchup Chicken
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 👀: LA

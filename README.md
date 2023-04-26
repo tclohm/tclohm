@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [ ] 🍽: Shrimp Fried Rice
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [ ] 👀: LA
+- [ ] 📍: LA
 - [x] 📖: [I am a Strange Loop, Designing Distributed Systems]
 - [x] 🔋: Mid - Low
 - [x] 📉: Benchmarking

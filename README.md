@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: The Shrimp Fried The Rice
+- [x] 🍽: Pizzana
 - [x] ⌨️: Javascript 🟢, Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 📍: LA

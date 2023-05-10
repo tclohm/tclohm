@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: Mushroom Soup
+- [ ] 🍽: Dolce Vida
 - [x] ⌨️: Javascript 🟢, Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 📍: LA

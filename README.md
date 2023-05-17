@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Midnight Pasta
+- [x] 🍽: Midnight Pasta!
 - [x] ⌨️: Javascript 🟢, Golang 🐭
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 📍: LA

@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Veggie Soup
-- [x] ⌨️: Javascript 🟢, Golang 🐭
+- [x] 🍽: Mahi Mahi and Veggies
+- [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 📍: LA
 - [ ] 📖: [I am a Strange Loop, Designing Distributed Systems]

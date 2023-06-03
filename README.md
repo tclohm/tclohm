@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [ ] 🍽: Night + Market
+- [ ] 🍽: Cancer Society Fund
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [ ] 📍: LA

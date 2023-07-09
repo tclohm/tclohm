@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Mozza and Cinespia
+- [x] 🍽: Little Dynamite
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: Los Angeles

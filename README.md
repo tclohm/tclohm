@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Belle's Beach House
+- [x] 🍽: Orzo and Zucchini
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: Los Angeles
-- [ ] 📖: [I am a Strange Loop, Designing Distributed Systems]
+- [x] 📍: Poland.
+- [ ] 📖: [I Am Error, Barbarians at the Gate]
 - [x] 🔋: Low
 - [ ] 📉: Benchmarking
 

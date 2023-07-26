@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Green beans and chicken
+- [x] 🍽: Pear and Fig Salad
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: Poland.

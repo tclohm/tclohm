@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Sushi again
+- [x] 🍽: Pizza
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: Norway...Im done
+- [x] 📍: Poland
 - [ ] 📖: [I Am Error, Barbarians at the Gate]
 - [x] 🔋: Low
 - [ ] 📉: Benchmarking

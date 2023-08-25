@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Crispy Tofu and Green beans
+- [x] 🍽: Playa Provisions
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: LA

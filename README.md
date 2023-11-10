@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Butternut Squash Pasta
+- [x] 🍽: Pizza
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: LA
+- [x] 📍: Paso Robles
 - [ ] 📖: [I Am Error, Barbarians at the Gate]
 - [x] 🔋: Medium
 - [ ] 📉: Benchmarking

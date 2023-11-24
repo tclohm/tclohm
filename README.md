@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: LA
-- [ ] 📖: [I Am Error, Barbarians at the Gate]
+- [ ] 📖: [Barbarians at the Gate, The Fund]
 - [x] 🔋: Depressed
 - [ ] 📉: Benchmarking
 

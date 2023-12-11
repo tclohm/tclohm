@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: Los Angeles
-- [ ] 📖: [Barbarians at the Gate, The Fund]
+- [ ] 📖: [Barbarians at the Gate, The Fund, Burning California]
 - [x] 🔋: Hopeful
 - [ ] 📉: Benchmarking
 

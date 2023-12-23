@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Lemon Linguine
+- [x] 🍽: Perogi
 - [ ] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [ ] 📍: Los Angeles
+- [ ] 📍: Japan
 - [ ] 📖: [Barbarians at the Gate, The Fund, Burning California]
 - [ ] 🔋: Anxious
 - [ ] 📉: Benchmarking

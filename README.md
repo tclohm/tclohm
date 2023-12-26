@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [ ] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: Japan
-- [ ] 📖: [The Fund, Burning California]
+- [ ] 📖: [The Fund, Burning California, The World For Sale]
 - [ ] 🔋: Energized
 - [ ] 📉: Benchmarking
 

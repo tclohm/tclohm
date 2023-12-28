@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [x] 🍽: Italian
 - [ ] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: Japan
+- [x] 📍: Kyoto, Japan
 - [ ] 📖: [The Fund, Burning California, The World For Sale]
 - [ ] 🔋: Energized
 - [ ] 📉: Benchmarking

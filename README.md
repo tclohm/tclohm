@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [x] 🍽: Basic Essentials
 - [ ] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: Tokyo, Japan
+- [x] 📍: In transit
 - [ ] 📖: [The World For Sale, Burning California, The Fund]
 - [ ] 🔋: Pending
 - [ ] 📉: Benchmarking

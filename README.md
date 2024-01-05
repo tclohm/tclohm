@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Basic Essentials
+- [x] 🍽: Fish and Veggies
 - [ ] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: In transit
+- [x] 📍: Los Angeles
 - [ ] 📖: [The World For Sale, Burning California, The Fund]
 - [ ] 🔋: Pending
 - [ ] 📉: Benchmarking

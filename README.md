@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Garlic Crab Noodles
+- [x] 🍽: Harissa and White Bean Chili
 - [ ] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: Los Angeles
 - [ ] 📖: [The World For Sale, Burning California, The Fund]
-- [ ] 🔋: Depressed
+- [ ] 🔋: Getting Better
 - [ ] 📉: Benchmarking
 
 <img src="https://user-images.githubusercontent.com/2380963/196989432-0c1113e4-33ec-4128-847e-932d0f377407.gif" align="right" width="100" height="100">

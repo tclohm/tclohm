@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - [ ] 📉: Benchmarking
 
 <!-- <img src="https://user-images.githubusercontent.com/2380963/196989432-0c1113e4-33ec-4128-847e-932d0f377407.gif" align="right" width="100" height="100"> -->
-<iframe src="https://giphy.com/embed/5Zesu5VPNGJlm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5Zesu5VPNGJlm">via GIPHY</a></p>
+<img src="https://giphy.com/embed/5Zesu5VPNGJlm" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>

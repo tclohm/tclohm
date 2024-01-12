@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Harissa and White Bean Chili
-- [ ] ⌨️: Golang 🐭, Javascript 🟢
+- [x] 🍽: Steak, Sweet Potato, and Carrots
+- [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: Los Angeles
 - [ ] 📖: [The World For Sale, Burning California, The Fund]

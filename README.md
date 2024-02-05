@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Parmesan White Bean Soup With Hearty Greens
+- [x] 🍽: Orzo
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: Santa Cruz
+- [x] 📍: Los Angeles
 - [ ] 📖: [The World For Sale, Burning California, The Fund]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking

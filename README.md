@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- [x] 🍽: Fish, Green Beans, and Mashed Potatoes
+- [x] 🍽: Shrimp Tacos
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
 - [x] 📍: Los Angeles

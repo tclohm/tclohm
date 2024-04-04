@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Burges
+- [x] 🍽: Wedding Food
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: Los Angeles
+- [x] 📍: Agoura
 - [ ] 📖: [The World For Sale, Burning California, The Fund]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking

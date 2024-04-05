@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Wedding Food
+- [x] 🍽: ???
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired and 99% Invisible
-- [x] 📍: Agoura
+- [x] 📍: Calabasa
 - [ ] 📖: [The World For Sale, Burning California, The Fund]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking

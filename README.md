@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - [x] 🍽: Cauliflower Tacos
 - [x] ⌨️: Golang 🐭, Javascript 🟢
-- [ ] 👂: Podcasts -- Acquired and Game Craft...meh
+- [ ] 👂: Podcasts -- Acquired
 - [x] 📍: Los Angeles
 - [ ] 📖: [Burning California, The Fund]
 - [ ] 🔋: Progress is progress

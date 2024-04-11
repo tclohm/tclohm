@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Cauliflower Tacos
+- [x] 🍽: Pasta Sisters and Jones
 - [x] ⌨️: Golang 🐭, Javascript 🟢
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: Los Angeles

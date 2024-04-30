@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - [x] 🍽: Taco Salad
-- [x] ⌨️: Golang 🐭, Javascript 🟢, Elixir 💧
+- [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: Los Angeles
 - [ ] 📖: [Burning California, The Fund]

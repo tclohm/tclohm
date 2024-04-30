@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Vermicelli
-- [x] ⌨️: Golang 🐭, Javascript 🟢
+- [x] 🍽: Taco Salad
+- [x] ⌨️: Golang 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: Los Angeles
 - [ ] 📖: [Burning California, The Fund]

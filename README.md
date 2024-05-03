@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Taco Salad
+- [x] 🍽: Blossom
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: Los Angeles

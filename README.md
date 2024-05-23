@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Charcuterie
+- [x] 🍽: Chicken Sandwich
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
-- [x] 📍: Tucson, Arizona
+- [x] 📍: Phoenix, Arizona
 - [ ] 📖: [Burning California, The Fund]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking

@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - [x] 🍽: Chicken Sandwich
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
-- [x] 📍: Phoenix, Arizona
-- [ ] 📖: [Burning California, The Fund]
+- [x] 📍: Los Angeles, CA
+- [ ] 📖: [The Fund, Burning California, Killing The Host, The Myth of Capitalism]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking
 

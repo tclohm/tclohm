@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: bibmbap
+- [ ] 🍽: BWW
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: Los Angeles, CA

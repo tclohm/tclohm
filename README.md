@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - [ ] 🍽: BWW
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
-- [x] 📍: Los Alimos, CA
+- [x] 📍: Los Alamos, CA
 - [ ] 📖: [The Fund, Burning California, Killing The Host, The Myth of Capitalism]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking

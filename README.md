@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: Los Alamos, CA
-- [ ] 📖: [The Fund, Burning California, Killing The Host, The Myth of Capitalism]
+- [ ] 📖: [Burning California, Killing The Host, The Myth of Capitalism]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking
 

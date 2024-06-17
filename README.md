@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [ ] 🍽: Bells
+- [ ] 🍽: Fish, Greens, and Rice
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
-- [x] 📍: Los Alamos, CA
+- [x] 📍: Los Angeles, CA
 - [ ] 📖: [Burning California, Killing The Host, The Myth of Capitalism]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking

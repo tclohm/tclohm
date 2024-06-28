@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Rune Par
+- [x] 🍽: Home Cooking
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: South Bay

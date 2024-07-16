@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: South Bay
-- [ ] 📖: [Burning California, Killing The Host, The Myth of Capitalism]
+- [ ] 📖: [Burning California, Killing The Host, The Myth of Capitalism, Founding Sales, Hold me Tight]
 - [ ] 🔋: Progress is progress
 - [ ] 📉: Benchmarking
 

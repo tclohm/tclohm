@@ -1,4 +1,4 @@
-### 
+[### 
 
 <!--
 **tclohm/tclohm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: South Bay
 - [ ] 📖: [Burning California, Killing The Host, The Myth of Capitalism, Founding Sales, Hold me Tight]
-- [ ] 🔋: Progress is progress
-- [ ] 📉: Benchmarking
+- [x] 🔋: Progress is progress
+- [x] 📉: Benchmarking
 
 <img src="https://user-images.githubusercontent.com/2380963/196989432-0c1113e4-33ec-4128-847e-932d0f377407.gif" align="right" width="100" height="100">

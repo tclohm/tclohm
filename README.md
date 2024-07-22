@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [x] 🍽: Redondo Beach
+- [x] 🍽: FGH
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: South Bay

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [ ] 🍽: leftover..fbh
+- [ ] 🍽: Sushi!
 - [x] ⌨️: Go 🐭, Javascript 🟢, Elixir 💧
 - [ ] 👂: Podcasts -- Acquired
 - [x] 📍: South Bay
